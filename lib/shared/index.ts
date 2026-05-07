@@ -13,7 +13,7 @@ import { SystemConfig, SupportedBedrockRegion } from "./types";
 import { SharedAssetBundler } from "./shared-asset-bundler";
 import { NagSuppressions } from "cdk-nag";
 
-const pythonRuntime = lambda.Runtime.PYTHON_3_11;
+const pythonRuntime = new lambda.Runtime("python3.13", lambda.RuntimeFamily.PYTHON);
 const lambdaArchitecture = lambda.Architecture.X86_64;
 process.env.DOCKER_DEFAULT_PLATFORM = lambdaArchitecture.dockerPlatform;
 

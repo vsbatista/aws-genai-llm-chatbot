@@ -2860,7 +2860,7 @@ schema {
                 {
                   "Ref": "AWS::Region",
                 },
-                ":017000801446:layer:AWSLambdaPowertoolsPythonV3-python311-x86_64:2",
+                ":017000801446:layer:AWSLambdaPowertoolsPythonV3-python313-x86_64:2",
               ],
             ],
           },
@@ -3400,7 +3400,7 @@ schema {
                 {
                   "Ref": "AWS::Region",
                 },
-                ":017000801446:layer:AWSLambdaPowertoolsPythonV3-python311-x86_64:2",
+                ":017000801446:layer:AWSLambdaPowertoolsPythonV3-python313-x86_64:2",
               ],
             ],
           },
@@ -3418,7 +3418,7 @@ schema {
             "Arn",
           ],
         },
-        "Runtime": "python3.11",
+        "Runtime": "python3.13",
         "Timeout": 600,
         "VpcConfig": {
           "SecurityGroupIds": [
@@ -5618,7 +5618,7 @@ schema {
                 {
                   "Ref": "AWS::Region",
                 },
-                ":017000801446:layer:AWSLambdaPowertoolsPythonV3-python311-x86_64:2",
+                ":017000801446:layer:AWSLambdaPowertoolsPythonV3-python313-x86_64:2",
               ],
             ],
           },
@@ -5635,7 +5635,7 @@ schema {
             "Arn",
           ],
         },
-        "Runtime": "python3.11",
+        "Runtime": "python3.13",
         "Timeout": 300,
         "VpcConfig": {
           "SecurityGroupIds": [
@@ -6044,7 +6044,7 @@ schema {
                 {
                   "Ref": "AWS::Region",
                 },
-                ":017000801446:layer:AWSLambdaPowertoolsPythonV3-python311-x86_64:2",
+                ":017000801446:layer:AWSLambdaPowertoolsPythonV3-python313-x86_64:2",
               ],
             ],
           },
@@ -6061,7 +6061,7 @@ schema {
             "Arn",
           ],
         },
-        "Runtime": "python3.11",
+        "Runtime": "python3.13",
         "Timeout": 300,
         "VpcConfig": {
           "SecurityGroupIds": [
@@ -7724,7 +7724,7 @@ schema {
                 {
                   "Ref": "AWS::Region",
                 },
-                ":017000801446:layer:AWSLambdaPowertoolsPythonV3-python311-x86_64:2",
+                ":017000801446:layer:AWSLambdaPowertoolsPythonV3-python313-x86_64:2",
               ],
             ],
           },
@@ -7742,7 +7742,7 @@ schema {
             "Arn",
           ],
         },
-        "Runtime": "python3.11",
+        "Runtime": "python3.13",
         "Timeout": 900,
       },
       "Type": "AWS::Lambda::Function",
@@ -7985,7 +7985,7 @@ schema {
                 {
                   "Ref": "AWS::Region",
                 },
-                ":017000801446:layer:AWSLambdaPowertoolsPythonV3-python311-x86_64:2",
+                ":017000801446:layer:AWSLambdaPowertoolsPythonV3-python313-x86_64:2",
               ],
             ],
           },
@@ -8003,7 +8003,7 @@ schema {
             "Arn",
           ],
         },
-        "Runtime": "python3.11",
+        "Runtime": "python3.13",
         "Timeout": 300,
         "VpcConfig": {
           "SecurityGroupIds": [
@@ -8360,7 +8360,7 @@ schema {
                 {
                   "Ref": "AWS::Region",
                 },
-                ":017000801446:layer:AWSLambdaPowertoolsPythonV3-python311-x86_64:2",
+                ":017000801446:layer:AWSLambdaPowertoolsPythonV3-python313-x86_64:2",
               ],
             ],
           },
@@ -8378,7 +8378,7 @@ schema {
             "Arn",
           ],
         },
-        "Runtime": "python3.11",
+        "Runtime": "python3.13",
         "Timeout": 15,
       },
       "Type": "AWS::Lambda::Function",
@@ -8872,7 +8872,7 @@ schema {
                 {
                   "Ref": "AWS::Region",
                 },
-                ":017000801446:layer:AWSLambdaPowertoolsPythonV3-python311-x86_64:2",
+                ":017000801446:layer:AWSLambdaPowertoolsPythonV3-python313-x86_64:2",
               ],
             ],
           },
@@ -8890,7 +8890,7 @@ schema {
             "Arn",
           ],
         },
-        "Runtime": "python3.11",
+        "Runtime": "python3.13",
         "Timeout": 900,
         "VpcConfig": {
           "SecurityGroupIds": [
@@ -11143,7 +11143,7 @@ schema {
                 {
                   "Ref": "AWS::Region",
                 },
-                ":017000801446:layer:AWSLambdaPowertoolsPythonV3-python311-x86_64:2",
+                ":017000801446:layer:AWSLambdaPowertoolsPythonV3-python313-x86_64:2",
               ],
             ],
           },
@@ -11160,7 +11160,7 @@ schema {
             "Arn",
           ],
         },
-        "Runtime": "python3.11",
+        "Runtime": "python3.13",
         "Timeout": 300,
         "VpcConfig": {
           "SecurityGroupIds": [
@@ -13640,7 +13640,7 @@ schema {
                 {
                   "Ref": "AWS::Region",
                 },
-                ":017000801446:layer:AWSLambdaPowertoolsPythonV3-python311-x86_64:2",
+                ":017000801446:layer:AWSLambdaPowertoolsPythonV3-python313-x86_64:2",
               ],
             ],
           },
@@ -13657,7 +13657,7 @@ schema {
             "Arn",
           ],
         },
-        "Runtime": "python3.11",
+        "Runtime": "python3.13",
         "Timeout": 900,
         "VpcConfig": {
           "SecurityGroupIds": [
@@ -14306,7 +14306,7 @@ schema {
                 {
                   "Ref": "AWS::Region",
                 },
-                ":017000801446:layer:AWSLambdaPowertoolsPythonV3-python311-x86_64:2",
+                ":017000801446:layer:AWSLambdaPowertoolsPythonV3-python313-x86_64:2",
               ],
             ],
           },
@@ -14323,7 +14323,7 @@ schema {
             "Arn",
           ],
         },
-        "Runtime": "python3.11",
+        "Runtime": "python3.13",
         "Timeout": 900,
         "VpcConfig": {
           "SecurityGroupIds": [
@@ -14846,7 +14846,7 @@ schema {
           "x86_64",
         ],
         "CompatibleRuntimes": [
-          "python3.11",
+          "python3.13",
         ],
         "Content": {
           "S3Bucket": {

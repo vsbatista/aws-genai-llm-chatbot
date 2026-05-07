@@ -545,11 +545,11 @@ export class AwsGenAILLMChatbotStack extends cdk.Stack {
         reason: "Intrinstic function references.",
       },
     ]);
-    // Lambda functions still using Python 3.11 even though latest runtime is 3.12. Can be removed after upgrade.
+    // Lambda functions runtime version suppression. Can be removed after upgrading to the latest runtime.
     NagSuppressions.addStackSuppressions(this, [
       {
         id: "AwsSolutions-L1",
-        reason: "Not yet upgraded from Python 3.11 to 3.12.",
+        reason: "Using Python 3.13 runtime.",
       },
     ]);
 
